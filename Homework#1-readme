@@ -4,10 +4,10 @@ Due: Oct 14 2019 Before Midnight
 
 
 Sep 29   task completed
-1- Create a partition in a windows 10
-2- Install Ubuntu 18.04
-   Issues: Unable to install Ubuntu alongside... (windows 10) 
-   Solution: The computer use to have windows 7 when I migrated to windows 10, 
+    1- Create a partition in a windows 10
+    2- Install Ubuntu 18.04
+    Issues: Unable to install Ubuntu alongside... (windows 10) 
+    Solution: The computer use to have windows 7 when I migrated to windows 10, 
              I forgot to change the partition from MBR to GUID; so, I ending 
              with windows 10 in a legacy BIOS and during the installation 
              Ubuntu does not recognize the windows 10 Operating Sysytem and 
@@ -17,5 +17,11 @@ Sep 29   task completed
              and Ubuntu 18.04.
 
 Oct 04  
-1- Installation of KVM
+    1- Installation of KVM
 
+Oct 06
+    1- Install git
+    2- Clone repository
+    3- install pakages required to compile
+    4- compile the kernel
+    5- install  virt-manager 
